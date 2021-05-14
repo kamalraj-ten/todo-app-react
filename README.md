@@ -12,3 +12,7 @@ After typing the todo in the input field in the navbar(on the top) click the but
 it to the rest of todos
 
 By clicking on the done button in the todo card, you can remove it from the list of todos
+
+# image of the app(web page)
+
+![Image of the Todo app or web page](/public/todo-app-react-app.png)
